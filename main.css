@@ -1,0 +1,36 @@
+
+h1{
+	text-align: center;
+	background-color: #595959; 
+
+}
+.image{
+	float: left;
+}
+.NAME{
+	
+	font-size: 25px;
+	color: black;
+	line-height: 140%;	
+}
+h2{ clear: both;
+		
+}
+p{
+	font-size: 20px;
+}
+th{
+	text-align: left;
+	font-weight: normal;
+	font-size: 20px;
+	color: brown;
+	
+}
+tr{
+	font-size: 17px;
+	color: black;
+	font-family: 'Arial', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+
+}	
